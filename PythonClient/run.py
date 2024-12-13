@@ -3,9 +3,6 @@ import socket
 from WebSocketClass import WebSocket_Py as WEB
 
 
-FLAG_USE_DISCORD = True
-FLAG_USE_SOCKET = False
-
 IP = "ESP's_IP"
 PORT = 80
 
